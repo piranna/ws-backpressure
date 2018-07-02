@@ -1,0 +1,27 @@
+{
+  "name": "ws-backpressure",
+  "version": "0.0.0",
+  "description": "Stream API for WebSocket and DataChannel objects, with back-pressure",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --notify --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/piranna/ws-backpressure.git"
+  },
+  "keywords": [
+    "WebSocket",
+    "DataChannel",
+    "WebRTC",
+    "backpressure",
+    "back-pressure",
+    "stream"
+  ],
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/piranna/ws-backpressure#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
